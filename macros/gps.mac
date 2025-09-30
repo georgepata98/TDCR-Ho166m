@@ -1,0 +1,15 @@
+/gps/verbose 0
+#
+/gps/particle gamma
+/gps/pos/type Volume
+/gps/pos/shape Cylinder
+#
+# Raza LS este dFiola/2 - tFiola = 2.8/2 - 0.18 = 1.22 cm
+# Semi-inaltimea LS este hLS/2 = 2.2/2 = 1.1 cm
+/gps/pos/radius 1.22 cm
+/gps/pos/halfz 1.1 cm
+#
+/gps/pos/centre 0 0 -1.22 cm
+/gps/ang/type iso
+/gps/ene/type Mono
+/gps/ene/mono 830.56 keV
